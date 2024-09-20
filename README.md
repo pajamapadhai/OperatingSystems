@@ -76,12 +76,20 @@ Welcome to the Operating Systems repository! This repository contains notes, ass
 
 ## Assignment Questions
 
-1. What are the key design issues in modern Operating Systems? Provide examples for monolithic, layered, modular, and micro-kernel models.
-2. Explain the difference between user and kernel modes. How do system calls facilitate interaction between the two?
-3. Compare pre-emptive and non-pre-emptive CPU scheduling. What are the advantages and drawbacks of each?
-4. How can synchronization problems be solved in a concurrent system? Provide examples of classical synchronization problems and solutions.
-5. Describe the concept of virtual memory and its importance. How does demand paging influence memory management?
-6. Explain the key concepts of virtualization and its impact on operating system design. What are hypervisors and container virtualization?
+1. Highest response ratio next scheduling (non pre-emptive)
+
+2. Priority scheduling (pre-emptive)
+
+3. Round robin scheduling
+
+4. First come first serve scheduling
+
+5. Shortest job first scheduling (pre-emptive)
+
+6. Shortest job first scheduling (non pre-emptive)
+
+7. FCFS, SSTF, LOOK, CLOOK, SCAN & CSCAN Disk Scheduling 
+
 
 ## Contributing
 
